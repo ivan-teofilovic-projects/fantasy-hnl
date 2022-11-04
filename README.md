@@ -1,6 +1,7 @@
 # Registration
 
 Working on registration service and jwt authentication in Golang
+![registration form](https://user-images.githubusercontent.com/112637910/200019249-3129a5a6-6e6b-4e87-ade5-4ef024214a70.png)
 
 # Frontend 
 
