@@ -22,3 +22,8 @@ Written in Golang.
 
 python script used for scraping sofascore.com and creating player database from it. Database run using docker
 
+
+![init](https://user-images.githubusercontent.com/112637910/200020972-8efec2da-ddc2-47e7-9810-c518f6ab8f6b.png)
+
+
+![submit](https://user-images.githubusercontent.com/112637910/200020995-33bec39d-8075-47b2-9c31-b858ae24ec47.png)
