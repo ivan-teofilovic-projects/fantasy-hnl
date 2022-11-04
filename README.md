@@ -20,7 +20,7 @@ Written in Golang.
 
 # Database_creation 
 
-python script used for scraping sofascore.com and creating player database from it. Database run using docker
+python script used for scraping sofascore.com using BeautifulSoup and Selenium and creating player database from it. Database server created and running using docker
 
 
 ![init](https://user-images.githubusercontent.com/112637910/200020972-8efec2da-ddc2-47e7-9810-c518f6ab8f6b.png)
