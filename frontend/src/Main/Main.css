@@ -1,0 +1,15 @@
+.main {
+    position: relative;
+    margin: 20px;
+}
+
+.grouped-sections {
+    position: absolute;
+    top: 0;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    justify-content: space-around;
+}
+

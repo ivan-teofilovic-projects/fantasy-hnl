@@ -1,0 +1,17 @@
+.filter {
+    display: flex;
+    flex-direction: column;
+}
+
+.filter label {
+    padding: 5px;
+}
+
+.filter select {
+    border: none;
+    border-bottom: 1px solid #739985;
+    padding: 5px;
+    margin: 10px;
+    margin-top: 0px;
+    font-weight: bold;
+}

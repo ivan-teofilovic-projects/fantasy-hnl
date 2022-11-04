@@ -1,0 +1,9 @@
+.player-section {
+    display: flex;
+    justify-content: space-around;
+}
+
+.header-and-field {
+    display: flex;
+    flex-direction: column;
+}

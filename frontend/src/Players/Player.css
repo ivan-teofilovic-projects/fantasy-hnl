@@ -1,0 +1,10 @@
+.player-info {
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+}
+
+.listOfPlayers {
+    overflow-y: scroll;
+    height: 500px;
+}

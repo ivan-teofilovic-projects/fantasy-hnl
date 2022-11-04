@@ -1,0 +1,10 @@
+.team-info {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    align-items: flex-end;
+}
+
+.team-info button {
+    height: 20px;
+}
